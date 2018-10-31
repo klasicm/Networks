@@ -1,0 +1,8 @@
+RandomID,Document,Actor 1,Actor 2,Relationship
+1323,Doc1,USEPA,ODNR,Funding
+1383,Doc1,"USEPA, ODNR, Indiana DNR, UC Davis",,Collaboration
+1384,Doc1,Rogue River Partners,US FWS,Coordination
+1385,Doc1,"Rogue River Partners, USEPA, US FWS, Ontario Ministry of Environment",,Authorship
+1386,Doc2,USEPA,ODNR,Coordination
+1387,Doc2,ODNR,US FWS,Coordination
+1388,Doc3,Agribusiness,General Public,Outreach
